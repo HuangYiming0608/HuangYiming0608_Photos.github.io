@@ -1,3 +1,7 @@
-My website.
+Error!
 
-You can save your photos here.
+Please add your files' names.
+
+
+
+HuangYiming0608_Photos.github.io ,a website to save photos
